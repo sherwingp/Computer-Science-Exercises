@@ -21,5 +21,6 @@ for i in range(int(sqrt(n)), 3, -1):
                 break
         else:
             print(i)
+            break
 
 
