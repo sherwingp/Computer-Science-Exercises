@@ -27,4 +27,5 @@ Then, I multiplied the counters together and used variable k to hold the value.
 I checked if that was a palindrome by converting it to a string and using a slice that step backwards.
 
 https://www.w3schools.com/python/python_howto_reverse_string.asp
+
 Lastly, the biggest palindrome was contained in biggest palindrome and then printed at the end of the loop.
