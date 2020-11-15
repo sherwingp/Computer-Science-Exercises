@@ -30,13 +30,13 @@ def calculate_median(numbers):
     return median
 
 if __name__ == '__main__':
-    lst = []
+    list = []
     n = int(input('Enter number of elements: '))
 
     for i in range(0, n):
-        ele = int(input())
+        elements = int(input())
 
-        lst.append(ele)
-    median = calculate_median(lst)
+        list.append(elements)
+    median = calculate_median(list)
 
     print('The median is {0}'.format(median))
