@@ -15,13 +15,13 @@ def calculate_mean(numbers):
     return mean
 
 if __name__ == '__main__':
-    lst = []
+    list = []
     n = int(input('Enter number of elements: '))
 
     for i in range(0, n):
-        ele = int(input())
+        elements = int(input())
 
-        lst.append(ele)
-    mean = calculate_mean(lst)
+        list.append(elements)
+    mean = calculate_mean(list)
 
     print('The mean is {0}'.format(mean))
