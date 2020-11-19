@@ -33,7 +33,7 @@ def lb_kg():
     print('Weight in kilograms: {0}'.format(kg))
 
 def c_f():
-    c = float(input('Enter temperature in celsius'))
+    c = float(input('Enter temperature in celsius: '))
     f = c * 9/5 + 32
 
     print('Temperature in fahrenheit: {0}'.format(f))
