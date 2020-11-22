@@ -2,6 +2,7 @@
 # Now that you know how your program can handle expressions input by a user,
 # write a program that will ask the user to input an expression, calculate its factors, and print them.
 # Your program should be able to handle invalid input by making use of exception handling.
+# Programming Challenge #1 of Amit Saha's 'Doing Maths with Python' Chapter 4
 
 from sympy import sympify, factor, SympifyError
 
