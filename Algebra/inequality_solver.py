@@ -1,5 +1,6 @@
 '''
 This programme solves inequalities
+Programming Challenge #4 of Amit Saha's 'Doing Maths with Python' Chapter 4
 '''
 
 from sympy import sympify, SympifyError, Symbol
