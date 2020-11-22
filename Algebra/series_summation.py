@@ -1,6 +1,7 @@
 '''
 This program finds the sum of an arbitrary series when you supply the nth term of the series
 and the number of terms in it.
+Programming Challenge #3 of Amit Saha's 'Doing Maths with Python' Chapter 4
 '''
 
 from sympy import sympify, Symbol, summation, pprint
