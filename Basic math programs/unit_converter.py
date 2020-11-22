@@ -1,4 +1,4 @@
-# Unit converter: Miles and kilometres
+# Doing Math with Python Ch. 1 Programming Challenge #3: Enhanced Unit Converter
 
 def print_menu():
     print('1. Kilometres to Miles')
