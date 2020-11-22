@@ -1,6 +1,4 @@
-'''
-Fraction calculator
-'''
+# Doing Math with Python Ch. 1 Programming Challenge #4: Fraction Calculator
 
 from fractions import Fraction
 
