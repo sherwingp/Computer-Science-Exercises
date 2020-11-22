@@ -10,6 +10,8 @@
 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Algebra/factor_finder.py">Factor Finder</a>
 
+<a href="https://github.com/sherwingp/maths-and-programming/blob/master/Algebra/series_summation.py">Summing a Series</a>
+
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Algebra/inequality_solver.py">Inequality Solver</a>
 
 ### Calculus
