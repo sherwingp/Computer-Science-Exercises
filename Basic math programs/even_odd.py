@@ -1,3 +1,5 @@
+# Doing Math with Python Ch. 1 #1: Even-Odd Vending Machine
+
 def odd_even(number):
     if number % 2 == 0:
         print('Even')
