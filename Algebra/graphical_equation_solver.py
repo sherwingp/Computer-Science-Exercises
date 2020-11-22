@@ -1,5 +1,6 @@
 '''
-Write a program that asks the user for two expressions and then graphs them both
+Write a program that asks the user for two expressions and then graphs them both.
+Programming Challenge #2 of Amit Saha's 'Doing Maths with Python' Chapter 4
 '''
 
 from sympy import Symbol, sympify, solve, SympifyError
