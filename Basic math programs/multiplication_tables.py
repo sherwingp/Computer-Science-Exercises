@@ -1,3 +1,5 @@
+# Doing Math With Python Ch 1 Programming Challenge #2: Enhanced Multiplication Table Generator
+
 def multi_table(a, b):
     for i in range(1, b+1):
         print('{0} x {1} = {2}'.format(a, i, a*i))
