@@ -23,7 +23,11 @@
 ### Basic Mathematics Programs 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Basic%20math%20programs/unit_converter.py">Unit Converter</a>
 
+<a href="https://github.com/sherwingp/maths-and-programming/blob/master/Basic%20math%20programs/even_odd.py">Even-Odd Vending Machine</a>
+
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Basic%20math%20programs/fraction_calculator.py">Fraction Calculator</a>
+
+<a href="https://github.com/sherwingp/maths-and-programming/blob/master/Basic%20math%20programs/multiplication_tables.py">Multiplication Table Generator</a> 
 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Basic%20math%20programs/quadratic_roots.py">Quadratic Roots Calculator</a>
 
