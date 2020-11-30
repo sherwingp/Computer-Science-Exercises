@@ -6,6 +6,8 @@
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Project%20Euler/explanations.md">Explanations</a>
 
 ### Algebra
+<a href="https://github.com/sherwingp/maths-and-programming/tree/master/Imperial%20Mathematics%20for%20Machine%20Learning%20Linear%20Algebra">Imperial Mathematics for Machine Learning: Linear Algebra</a>
+
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Algebra/graphical_equation_solver.py">Graphical Equation Solver</a>
 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Algebra/factor_finder.py">Factor Finder</a>
@@ -15,6 +17,8 @@
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Algebra/inequality_solver.py">Inequality Solver</a>
 
 ### Calculus
+<a href="https://github.com/sherwingp/maths-and-programming/tree/master/Imperial%20Mathematics%20for%20Machine%20Learning%20Multivariate%20Calculus/Week%201">Imperial Mathematics for Machine Learning: Multivariate Calculus</a>
+
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Calculus/derivative_calculator.py">Derivative Calculator</a>
 
 ### Statistics
