@@ -1,4 +1,4 @@
-# maths-and-programming
+# Sherwin's Computer Science Portfolio
 
 This is a collection of my maths and programming exercises and projects.
 
