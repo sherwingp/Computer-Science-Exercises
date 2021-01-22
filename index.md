@@ -39,3 +39,7 @@
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Guitar/scale_printer.py">Musical Scale Printer</a>
 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Misc%20files/rpsGame.py">Rock Paper Scissors</a>
+
+### Websites Maintained
+<a href="https://97parade.com/">97Parade Music Blog</a>
+
