@@ -24,7 +24,7 @@ Then a nested loop checks if it is a prime, again using modulo.
 ## Problem 4 - Largest palindrome product:
 First, I created a loop and another nested loop iterating from 999 to 1. 
 Then, I multiplied the counters together and used variable k to hold the value. 
-I checked if that was a palindrome by converting it to a string and using a slice that step backwards.
+I checked if that was a palindrome by converting it to a string and using a slice that steps backwards.
 
 https://www.w3schools.com/python/python_howto_reverse_string.asp
 
