@@ -1,5 +1,8 @@
 ## Sherwin's Mathematics and Programming Exercises and Projects
 
+### Websites Maintained
+<a href="https://97parade.com/">97Parade Music Blog</a>
+
 ### Project Euler Programs
 <a href="https://github.com/sherwingp/maths-and-programming/tree/master/Project%20Euler">Solutions</a>
 
@@ -40,6 +43,4 @@
 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Misc%20files/rpsGame.py">Rock Paper Scissors</a>
 
-### Websites Maintained
-<a href="https://97parade.com/">97Parade Music Blog</a>
 
