@@ -1,7 +1,7 @@
 ## Sherwin's Mathematics and Programming Exercises and Projects
 
 ### Websites Maintained
-<a href="https://97parade.com/">97Parade Music Blog</a>
+<a href="https://97parade.com/">97PARADE Music Blog</a>
 
 ### Project Euler Programs
 <a href="https://github.com/sherwingp/maths-and-programming/tree/master/Project%20Euler">Solutions</a>
