@@ -6,7 +6,7 @@
 ### Project Euler Programs
 <a href="https://github.com/sherwingp/maths-and-programming/tree/master/Project%20Euler">Solutions</a>
 
-<a href="https://github.com/sherwingp/maths-and-programming/blob/master/Project%20Euler/explanations.md">Explanations</a>
+<a href="https://github.com/sherwingp/maths-and-programming/blob/master/Project%20Euler/README.md">Explanations</a>
 
 ### Algebra
 <a href="https://github.com/sherwingp/maths-and-programming/tree/master/Imperial%20Mathematics%20for%20Machine%20Learning%20Linear%20Algebra">Imperial Mathematics for Machine Learning: Linear Algebra</a>
