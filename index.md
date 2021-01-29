@@ -8,6 +8,10 @@
 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Project%20Euler/README.md">Explanations</a>
 
+### freeCodeCamp Challenges (Javascript Algorithms and Data Structures, and Responsive Web Design)
+<a href="https://github.com/sherwingp/Computer-Science-Portfolio/tree/master/freeCodeCamp">Challenge and Project Code</a>
+<a href="https://www.freecodecamp.org/fcc365a0809-946a-4aa1-a7fa-3a52a71f7a14">Certifications and Activity Tracker</a>
+
 ### Algebra
 <a href="https://github.com/sherwingp/maths-and-programming/tree/master/Imperial%20Mathematics%20for%20Machine%20Learning%20Linear%20Algebra">Imperial Mathematics for Machine Learning: Linear Algebra</a>
 
