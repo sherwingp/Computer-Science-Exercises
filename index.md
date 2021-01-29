@@ -33,7 +33,7 @@
 ### Statistics
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Statistics/statistics_calculator.py">Statistics Calculator</a>
 
-### Basic Mathematics Programs 
+### Misc. Mathematics Programs 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Basic%20math%20programs/unit_converter.py">Unit Converter</a>
 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Basic%20math%20programs/even_odd.py">Even-Odd Vending Machine</a>
