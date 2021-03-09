@@ -2,7 +2,8 @@
 Statistics calculator
 
 This is a programming challenge from 'Doing Math with Python' ch. 3
-Implement a statistics calculator that takes a list of numbers in the file mydata.txt and then calculates and prints their mean, median, mode, variance, and standard deviation.
+Implement a statistics calculator that takes a list of numbers in the file mydata.txt and then calculates and prints their mean, median, mode, variance, 
+and standard deviation.
 '''
 
 from collections import Counter
