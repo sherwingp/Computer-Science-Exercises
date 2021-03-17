@@ -128,7 +128,7 @@ function getRating(watchList){
   .filter(movie => movie.Director === "Christopher Nolan")
   // Maps over them to pull the ratings
   .map(movie => parseFloat(movie.imdbRating))
-  // Averages but adding together ratings, then dividing by number of movies directed
+  // Averages by adding together ratings, then dividing by number of movies directed
   .reduce((total, amount) => 
     total += amount ) / 
     watchList.filter(movie => movie.Director === "Christopher Nolan").length; 
