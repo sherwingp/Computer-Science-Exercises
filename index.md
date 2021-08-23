@@ -3,13 +3,19 @@
 ### Websites Maintained
 <a href="https://97parade.com/">97PARADE Music Blog</a>
 
+### React Apps
+#### Full Stack Open
+<a href="https://github.com/sherwingp/full-stack-open">All exercise code</a>
+
+<a href="https://pure-basin-09516.herokuapp.com/">Phonebook</a>
+
 ### freeCodeCamp Challenges 
 #### (Javascript Algorithms and Data Structures, and Responsive Web Design)
 <a href="https://github.com/sherwingp/Computer-Science-Portfolio/tree/master/freeCodeCamp">Challenge and Project Code</a>
 
 <a href="https://www.freecodecamp.org/sherwin">Certifications and Activity Tracker</a>
 
-### Project Euler Programs
+### Project Euler Challenges
 <a href="https://github.com/sherwingp/maths-and-programming/tree/master/Project%20Euler">Solutions</a>
 
 <a href="https://github.com/sherwingp/maths-and-programming/blob/master/Project%20Euler/README.md">Explanations</a>
